@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FlexBisonTools.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  COOL.tab.cc
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\COOL.tab.cc(956,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\COOL.tab.cc(1357,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\COOL.tab.cc(1670,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  lex.yy.cc
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(49,1): warning C4005: 'INT8_MIN': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(62,1): message : see previous definition of 'INT8_MIN'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(50,1): warning C4005: 'INT16_MIN': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(65,1): message : see previous definition of 'INT16_MIN'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(51,1): warning C4005: 'INT32_MIN': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(68,1): message : see previous definition of 'INT32_MIN'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(53,1): warning C4005: 'INT8_MAX': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(71,1): message : see previous definition of 'INT8_MAX'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(54,1): warning C4005: 'INT16_MAX': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(74,1): message : see previous definition of 'INT16_MAX'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(55,1): warning C4005: 'INT32_MAX': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(77,1): message : see previous definition of 'INT32_MAX'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(57,1): warning C4005: 'UINT8_MAX': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(80,1): message : see previous definition of 'UINT8_MAX'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(58,1): warning C4005: 'UINT16_MAX': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(83,1): message : see previous definition of 'UINT16_MAX'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h(59,1): warning C4005: 'UINT32_MAX': macro redefinition
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(86,1): message : see previous definition of 'UINT32_MAX'
+C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\MainDriver\lex.yy.cc(1390,21): warning C4244: 'return': conversion from 'std::streamsize' to 'int', possible loss of data
+  MainDriver.vcxproj -> C:\Users\amklo\OneDrive\Documents\MTSU\CSCI 4160 (Compiler Design)\Project3\Windows\BisonProject\Debug\MainDriver.exe
